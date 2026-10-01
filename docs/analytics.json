@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-10-01T04:12:26.511367+00:00",
+  "generated_at": "2026-10-01T04:22:40.844200+00:00",
   "recent_settled": [
+    {
+      "ticker": "KXBTC15M-26SEP302215-15",
+      "result": "yes",
+      "closed_at_utc": "2026-10-01T04:14:33.104074+00:00",
+      "data_quality": "backfill"
+    },
+    {
+      "ticker": "KXBTC15M-26SEP302230-30",
+      "result": "no",
+      "closed_at_utc": "2026-10-01T04:14:33.102787+00:00",
+      "data_quality": "backfill"
+    },
+    {
+      "ticker": "KXBTC15M-26SEP302245-45",
+      "result": "no",
+      "closed_at_utc": "2026-10-01T04:14:33.101246+00:00",
+      "data_quality": "backfill"
+    },
+    {
+      "ticker": "KXBTC15M-26SEP302300-00",
+      "result": "yes",
+      "closed_at_utc": "2026-10-01T04:14:33.099647+00:00",
+      "data_quality": "backfill"
+    },
+    {
+      "ticker": "KXBTC15M-26SEP302315-15",
+      "result": "no",
+      "closed_at_utc": "2026-10-01T04:14:33.097577+00:00",
+      "data_quality": "backfill"
+    },
+    {
+      "ticker": "KXBTC15M-26SEP302330-30",
+      "result": "yes",
+      "closed_at_utc": "2026-10-01T04:14:33.095343+00:00",
+      "data_quality": "backfill"
+    },
+    {
+      "ticker": "KXBTC15M-26SEP302345-45",
+      "result": "yes",
+      "closed_at_utc": "2026-10-01T04:14:33.092670+00:00",
+      "data_quality": "backfill"
+    },
+    {
+      "ticker": "KXBTC15M-26OCT010000-00",
+      "result": "yes",
+      "closed_at_utc": "2026-10-01T04:14:33.089555+00:00",
+      "data_quality": "backfill"
+    },
     {
       "ticker": "KXBTC15M-26SEP301115-15",
       "result": "yes",
@@ -12,54 +60,6 @@
       "result": "no",
       "closed_at_utc": "2026-09-30T17:07:45.499515+00:00",
       "data_quality": "backfill"
-    },
-    {
-      "ticker": "KXBTC15M-26SEP301145-45",
-      "result": "yes",
-      "closed_at_utc": "2026-09-30T17:07:45.498240+00:00",
-      "data_quality": "observed"
-    },
-    {
-      "ticker": "KXBTC15M-26SEP301200-00",
-      "result": "yes",
-      "closed_at_utc": "2026-09-30T17:07:45.496879+00:00",
-      "data_quality": "observed"
-    },
-    {
-      "ticker": "KXBTC15M-26SEP301215-15",
-      "result": "yes",
-      "closed_at_utc": "2026-09-30T17:07:45.495146+00:00",
-      "data_quality": "observed"
-    },
-    {
-      "ticker": "KXBTC15M-26SEP301230-30",
-      "result": "no",
-      "closed_at_utc": "2026-09-30T17:07:45.492100+00:00",
-      "data_quality": "observed"
-    },
-    {
-      "ticker": "KXBTC15M-26SEP301245-45",
-      "result": "yes",
-      "closed_at_utc": "2026-09-30T17:07:45.488282+00:00",
-      "data_quality": "observed"
-    },
-    {
-      "ticker": "KXBTC15M-26SEP301300-00",
-      "result": "no",
-      "closed_at_utc": "2026-09-30T17:07:45.484088+00:00",
-      "data_quality": "observed"
-    },
-    {
-      "ticker": "KXBTC15M-26SEP301015-15",
-      "result": "no",
-      "closed_at_utc": "2026-09-30T16:07:35.942057+00:00",
-      "data_quality": "backfill"
-    },
-    {
-      "ticker": "KXBTC15M-26SEP301030-30",
-      "result": "no",
-      "closed_at_utc": "2026-09-30T16:07:35.940676+00:00",
-      "data_quality": "observed"
     }
   ],
   "backtests": [
@@ -105,11 +105,11 @@
     }
   ],
   "pattern_log": {
-    "total_settled": 1295,
-    "up_count": 665,
-    "down_count": 630,
+    "total_settled": 1303,
+    "up_count": 670,
+    "down_count": 633,
     "observed_count": 1065,
-    "backfill_count": 230,
+    "backfill_count": 238,
     "trend": {
       "name": "trend",
       "n": 884,
